@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(199, 196, 196);
+    
+}
+h1 {
+    text-align: center;
+    color: azure;
+}
+h2 {
+    border-left: 6px solid rgb(108, 163, 230);
+}
